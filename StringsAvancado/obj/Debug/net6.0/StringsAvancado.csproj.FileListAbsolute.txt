@@ -1,0 +1,15 @@
+D:\CSharp\StringsAvancado\StringsAvancado\bin\Debug\net6.0\StringsAvancado.exe
+D:\CSharp\StringsAvancado\StringsAvancado\bin\Debug\net6.0\StringsAvancado.deps.json
+D:\CSharp\StringsAvancado\StringsAvancado\bin\Debug\net6.0\StringsAvancado.runtimeconfig.json
+D:\CSharp\StringsAvancado\StringsAvancado\bin\Debug\net6.0\StringsAvancado.dll
+D:\CSharp\StringsAvancado\StringsAvancado\bin\Debug\net6.0\StringsAvancado.pdb
+D:\CSharp\StringsAvancado\StringsAvancado\obj\Debug\net6.0\StringsAvancado.csproj.AssemblyReference.cache
+D:\CSharp\StringsAvancado\StringsAvancado\obj\Debug\net6.0\StringsAvancado.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\StringsAvancado\StringsAvancado\obj\Debug\net6.0\StringsAvancado.AssemblyInfoInputs.cache
+D:\CSharp\StringsAvancado\StringsAvancado\obj\Debug\net6.0\StringsAvancado.AssemblyInfo.cs
+D:\CSharp\StringsAvancado\StringsAvancado\obj\Debug\net6.0\StringsAvancado.csproj.CoreCompileInputs.cache
+D:\CSharp\StringsAvancado\StringsAvancado\obj\Debug\net6.0\StringsAvancado.dll
+D:\CSharp\StringsAvancado\StringsAvancado\obj\Debug\net6.0\refint\StringsAvancado.dll
+D:\CSharp\StringsAvancado\StringsAvancado\obj\Debug\net6.0\StringsAvancado.pdb
+D:\CSharp\StringsAvancado\StringsAvancado\obj\Debug\net6.0\StringsAvancado.genruntimeconfig.cache
+D:\CSharp\StringsAvancado\StringsAvancado\obj\Debug\net6.0\ref\StringsAvancado.dll
